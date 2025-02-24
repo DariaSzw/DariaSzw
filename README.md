@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**DariaSzw/DariaSzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an ambitious second-year student of Computer Science. Every day brings new challenges and opportunities that I want to use. Programming is my passion, which I want to develop. I can use programming languages ​​such as C, C++, C#, Python, Java, HTML, Bash. I most often use Unity and VSCode. The ability to learn quickly allows me to develop my programming skills a lot. I also have no shortage of creativity, which I want to use in my projects.
 
-Here are some ideas to get you started:
+```Ruby
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                        ############            ############
+                                    ####################    ####################
+                              ########################################################
+  ### ###                  ##############################################################                  ### ###  
+###########          ######################                              ######################          ###########
+  #######                  ###########################        ###########################                  #######  
+    ###                        ######################################################                        ###    
+                                       ######################################                                             
+                                           ##############################
+
+```
